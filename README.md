@@ -1,4 +1,8 @@
-![Imagen decorativa de tu perfil](https://github.com/DieTorDev/DieTorDev/blob/main/profile-github-pic.jpeg)
+<center>
+<p>
+  <img src="https://github.com/DieTorDev/DieTorDev/blob/main/profile-github-pic.jpg">
+</p>
+</center>
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Diego</h1>
