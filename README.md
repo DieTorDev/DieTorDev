@@ -1,37 +1,24 @@
-![Imagen decorativa de tu perfil](https://github.com/DorianDesings/readme-demos/blob/main/profile-image.jpeg)
+![Imagen decorativa de tu perfil](https://github.com/DieTorDev/DieTorDev/blob/main/profile-github-pic.jpeg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">Hola 👋, Soy Diego</h1>
+<h3 align="center">Un jóven desarrolador web</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
-
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO **React, Node.js y MongoDB**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
+- 📫 PUEDES CONTACTARME EN **torradosanchezdiego@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-  <a href="https://codepen.io/url-de-codepen" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="url-de-codepen" height="30" width="40" />
-  </a>
 
-  <a href="https://dev.to/url-de-devto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="url-de-devto" height="30" width="40" />
-  </a>
-
-  <a href="https://twitter.com/url-de-twitter" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="url-de-twitter" height="30" width="40" />
-  </a>
-
-  <a href="https://linkedin.com/in/url-de-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/diego-torrado-s%C3%A1nchez-2124322b4/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
