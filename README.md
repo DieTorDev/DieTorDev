@@ -1,4 +1,4 @@
-<p aling="center">
+<p align="center">
   <img src="https://github.com/DieTorDev/DieTorDev/blob/main/profile-github-pic.jpg">
 </p>
 
