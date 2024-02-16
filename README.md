@@ -1,8 +1,7 @@
-<center>
-<p>
+<p aling="center">
   <img src="https://github.com/DieTorDev/DieTorDev/blob/main/profile-github-pic.jpg">
 </p>
-</center>
+
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Diego</h1>
