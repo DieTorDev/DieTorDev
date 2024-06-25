@@ -5,11 +5,11 @@
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Diego</h1>
-<h3 align="center">Un jóven desarrolador web</h3>
+<h3 align="center">Un jóven desarrollador web</h3>
 
 - 🌱 ESTOY ESTUDIANDO **React, Node.js, Express y MongoDB**
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN https://dietordev.github.io/portfolio/
 
 - 📫 PUEDES CONTACTARME EN **torradosanchezdiego@gmail.com**
 
